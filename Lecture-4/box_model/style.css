@@ -1,0 +1,19 @@
+h1,span{
+    height: 100px;
+    width: 100px;
+    /* content area ?  100 x 100 */
+    /* element area ? (w)100x100(h) */
+    padding: 10px;
+    /* element area ? (w)120x120(h) */
+    border: 5px solid black;
+    /* element area ? (w)130x130(h) */
+    /* content area ?  100 x 100 */
+    margin: 50px;
+    /* element area ? (w)130x130(h) */
+    /* content area ?  100 x 100 */
+}
+
+span{
+    /* display: block;  we dont want to change the nature */
+    display: inline-block; /*prefered*/
+}

@@ -1,0 +1,34 @@
+/* div{
+    height: 100px;
+    width: 100px;
+    border: 5px solid red;
+}
+
+#middle{
+    border: 5px solid green;
+}
+
+.samarth{
+    background-color: yellow;
+} */
+
+/* ----------------------------- */
+/* specificity = priority = bhaukaal = dabdaba */
+/* class is having more priority than element */
+/* div{
+    color: red;
+}
+.mav{
+    color: blue;
+}
+
+.vohra{
+    color: green;
+} */
+
+/* if both are same then the onle who is written at the end wins */
+/* id > class > element (priority) */
+
+/* #sam{
+    color: pink;
+} */

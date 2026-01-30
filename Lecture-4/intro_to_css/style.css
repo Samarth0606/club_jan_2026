@@ -1,0 +1,13 @@
+h1,p,div{
+    background-color: orchid;   
+    border: 4px dotted black;   
+}
+h1{
+    color: orange;
+}
+p{
+    color: blue;
+}
+div{
+    color: green;
+}
