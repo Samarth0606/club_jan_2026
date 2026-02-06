@@ -1,0 +1,39 @@
+div{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+}
+
+/* parent properties */
+#container{
+    height: 600px;
+    border: 1px solid red;
+    display: flex;
+    flex-direction: row;
+
+    /* flex-wrap: nowrap; //default */
+    /* flex-wrap: wrap;
+
+    justify-content: space-around;
+    align-items: center; */
+    /* justify-content: end;
+    justify-content: space-between;
+    justify-content: space-evenly;
+    justify-content: space-around; */
+    /* align-content: start;
+    align-content: center;
+    align-content: end; */
+
+}
+
+/* #child properties */
+/* #div2{}  */
+.divv2{
+    flex-grow: 1;
+    align-self: center;
+}
+.divv4{
+    flex-grow: 4; /* 1 ratio*/
+    flex-shrink: 2; /* reduction from original position*/
+    align-self: flex-end;
+}
