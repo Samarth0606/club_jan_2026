@@ -1,0 +1,36 @@
+div{
+    /* width: 100px; */
+    /* height: 100px; */
+    background-color: beige;
+    border: 2px solid black;
+}
+
+#container{
+    border: 2px solid red;
+    height: 98vh;
+    /* display: flex; */
+    display: grid;
+    grid-template-columns: 100px 200px;
+    grid-template-rows: 200px 150px 200px; /* 6 elements rest 4? */ 
+    grid-auto-flow: row; /* flex-direction = default */
+    /* grid-auto-flow: column; flex-direction */
+    grid-auto-rows: 75px ; /* useless */
+    grid-auto-columns: 100px ; 
+    /* row-gap: 10px;
+    column-gap: 10px; */
+    /* gap: 10px; */
+}
+.divv3{
+    background-color: green;
+    grid-row-start: 2;
+    grid-row-end: 3;
+    grid-column-start:1;
+    grid-column-end: 3;
+}
+.divv8{
+    background-color: blue;
+    grid-row-start: 5;
+    grid-row-end: 7;
+    grid-column-start:1;
+    grid-column-end: 3;
+}
