@@ -1,0 +1,24 @@
+:root{
+    --peelaRang: yellow;
+    --laal-rang: purple;
+    --neela-rang: blue;
+    --font-ka-lambai: 100px;
+}
+
+h1{
+    color: var(--laal-rang);
+    font-size: var(--font-ka-lambai);
+}
+h2{
+    color: var(--laal-rang);
+    font-family: monospace;
+}
+h3{
+    color: var(--laal-rang);
+    font-family: cursive;
+}
+h4{
+    color: var(--laal-rang);
+    font-weight: 400;
+}
+/* 400 more.... */

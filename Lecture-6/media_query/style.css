@@ -1,0 +1,47 @@
+div{
+    width: 400px;
+    border: 1px dotted black;
+    margin: 0 auto;
+}
+h1{
+    color: red;
+}
+p{
+    color: green;
+}
+
+
+
+@media screen and (max-width:991px) {
+    h1{
+        color: green;
+        font-size: 50px;
+        background-color: blue;
+    }
+    p{
+        font-family: monospace;
+        font-weight: 700;
+        color: gray;
+    }
+}
+
+@media screen and (max-width:768px) {
+    h1{
+        color: purple;
+        font-size: 100px;
+        background-color: orange;
+    }
+    p{
+        font-family: monospace;
+        font-weight: 800;
+        color: hotpink;
+    }
+}
+
+/* portrait =  h > w */
+/* landscape = w > h */
+@media screen and (orientation: portrait) {
+    h1{
+        color: aquamarine;
+    }
+}

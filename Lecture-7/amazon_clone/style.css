@@ -1,0 +1,108 @@
+/* universal css */
+*{
+    margin: 0;
+    padding: 0;
+    /* box-sizing: content-box; by default */
+    box-sizing: border-box;
+    font-family: 'Outfit', sans-serif; /* google font */
+}
+body{
+    background-color: #dadada;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+/* ------------------------------------------------------------- */
+/* navbar */
+nav{
+    background-color: #131921;
+    padding: 10px 20px; 
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #fff;
+}
+
+/* location css */
+.nav-location{
+    display: flex;
+    align-items: end;
+    color: #c4c4c4;
+    font-size: 13px;
+    margin-left: 15px ;
+}
+
+.nav-location h1{
+    color: #fff;
+    font-size: 14px;
+}
+/* ------------------------------------------------------------- */
+/* search bar nav */
+.nav-search{
+    display: flex;
+    flex: 1;
+    align-items: center;
+    max-width: 900px;
+    color: gray;
+    background-color: #fff;
+    margin-left: 5px;
+    border-radius: 4px;
+}
+.nav-search-category{
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    gap: 5px;
+    background-color: #e5e5e5;
+    border-radius: 4px 0 0 4px;
+}
+
+.nav-search-input{
+    border: none;
+    outline: none;
+    padding-left: 20px;
+    width: 100%;
+}
+
+.nav-search-icon{
+    padding: 8px;
+    max-width: 43px;
+    border-radius: 0 4px 4px 0;
+    background-color: #ffd64f;
+}
+
+/* ------------------------------------------------------------- */
+/* nav language */
+.nav-language{
+    display: flex;
+    align-items: center;
+    font-weight: 600;
+    margin-left: 15px;
+    gap: 2px;
+}
+/* ------------------------------------------------------------- */
+/* nav singin & order */
+.nav-text{
+    margin-left: 15px;
+}
+.nav-text p{
+    font-size: 10px;
+}
+.nav-text h1{
+    font-size: 14px;
+}
+/* ------------------------------------------------------------- */
+/* cart */
+.nav-cart{
+    display: flex;
+    align-items: center;
+    margin: 0 15px;
+}
+/* ------------------------------------------------------------- */
+
+
+
+
+
+
