@@ -1,0 +1,93 @@
+Git & Github
+
+Bash commands:
+Linux/terminal  commands
+
+
+---------------------------------------------
+
+Everything with UI 
+Developer = commands just
+
+Windows people
+Install git -> option yes - gitbash (YT)
+Gitbash - yes (install) - CLI (command line interface)
+
+----------------------------------------------
+Bash commands:
+Dir(windows)
+	1. Ls (list) = both files and folders
+	2. cd (change directory)
+	3. cd .. (single jump)
+	4. cd ../../.. (multi jump)
+	5. Ls -L //detailed list
+	6. Ls -a //shows all hidden folders as well
+	Dot(.)=> hidden folders
+	7. Mkdir folder_name
+	8. Mkdir sam mav kash  //same level folders
+	9. Mkdir -p max/dog/sheru  //nested folder
+	10. Rm // remove files
+	11. Rmdir //folders (empty)
+	12. Rm -r // folder with hierarchy (-r = recursive)
+	13. Rm -rf  //recursive & force deletion
+	14. Touch file_name // create file
+	15. Cat dog.txt //check data of a file
+	16. Cat > dog.txt => (ctrl + d) to save it
+	17. Cat >> sam.js // prev data + new data both
+	18. Cp sam.js catty.js //file copy
+	19. Cp -r mav sam //folder copy
+	20. Mv smarth samarth //rename (move)
+	21. History
+	22. Vim (difficult) - hw (if interested)
+Insert  - I
+ESC - when done
+:w = save
+:q = quit
+:wq = save and quit
+:wq! = Forceful save and quit
+
+
+Real: Desktop -> Sam -> Jan -> Lecture-7
+
+Desktop(current path)
+Ls
+Output: sam
+
+---------------------------------------------------
+
+GIT => version control system
+
+LKG
+UKG
+1
+2
+3….
+10th = here
+
+GITHUB => cloud storage platform =  store safe
+Codes:
+
+-----------------------------------------------
+
+Check git is available = install git
+
+	1. Git -v  or  Git --version
+Folder = codes
+
+
+Git init  // start / initialize / guard existing
+Git status   // untracked filed + tracked files
+Git add . Or -A  //adds all the files/folders tracking
+Git rm --cached sam.txt.  //untrack
+Git commit -m "message" //photograph
+
+Git log //list of commits
+Git checkout --id--  //move to prev / present
+Git checkout main // (recent code) 
+
+Main/master => same 
+
+
+
+
+
