@@ -1,0 +1,63 @@
+YE PADHLO BAS KAAFI HAI JOB LAG JAEGI - ACHE SE PADHNA
+
+HTML -> 
+iframe, inline-block, img (nature), semantics,
+Strong vs b , em vs I , meta tag ,  root element, table,
+Th vs td
+	
+CSS -> inline vs internal vs external (specificity),
+Id vs class, box-model, box-sizing, position(5), 
+Display(inline-block, none, flex, grid, inline, block)
+Units (px, %, rem, em ,vh, vw)
+Media query, css variable
+------------------------------------------------------------------------
+Tailwind-session: (1/2 week - schedule)
+Questions: 5 questions - implement
+------------------------------------------------------------------------
+Git - bash commands
+Git clone vs git fetch
+fork
+How to create branch
+Merge conflict
+Cherry pick, rebase, stash
+-----------------------------------------------------------------------
+
+Variables (naam karan)
+If-else if -else
+Operators
+
+For, while, do-while, for-in, for-of   //loops
+Short-circuiting (&& , ||)
+Ternary
+----------------
+Let age = 5;
+(Age>5) ? Log("bada baccha") : Log("chota baccha")
+----------------
+Questions: N questions - implement (if-else, for)
+----------------
+
+-----------------------------------------------------------------------
+Object, array
+Var let const
+Hoisting - DTZ (time between)
+Scope () - global scipt, functional, block
+----nahi padhaya----
+HOF  (map,filter,reduce,some,every,find,forEach)
+Cb ()
+
+methods - touppercasre, tolowercase, find, filter,
+Split, join, length, replace, replaceall, slice, splice,reverse
+Math - random() , floor, ceil, round
+
+Closure (sure short ques.) + why?
+Constructor - new
+Class , super , new
+This (5) - 
+Prototypes 
+
+-----------------------------------------------------------------------
+Callbackhell, promises, settimeout, setinterval, clearinterval,
+, async await, eventloop (vvvimp), web apis (fetch, localstorage, session,cookies)
+-----------------------------------------------------------------------
+DOM (koi nhi poochta) - just for implementation
+-----------------------------------------------------------------------
