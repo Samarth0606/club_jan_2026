@@ -15,3 +15,4 @@ function outer(){
 
 let returnedVal = outer();
 returnedVal();
+// console.log(a , c);
