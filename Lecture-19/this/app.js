@@ -233,7 +233,7 @@
 // let vohra = obj.fn;
 // vohra();
 
-
+// window
 let obj = {
     a: 10,
     fn: ()=>{
