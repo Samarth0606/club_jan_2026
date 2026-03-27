@@ -14,7 +14,7 @@
 //     // event.target.value = "vohra sahab"
 // })
 
-// inp.addEventListener('change' ,  function(event){
+// inp.addEventListener('input' ,  function(event){
 //     console.log("sam");
     
 //     // console.log(event);
