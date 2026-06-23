@@ -1,0 +1,12 @@
+{
+  "name": "init_1",
+  "version": "1.0.0",
+  "description": "samarth bhaiya saying welcome to code_baithak",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
